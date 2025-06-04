@@ -1,0 +1,36 @@
+AW cola
+Beijing Beef
+Chow Mein
+Fried Rice
+Hashbrown
+Honey Walnut Shrimp
+Kung Pao Chicken
+String Bean Chicken Breast
+Super Greens
+The Original Orange Chicken
+White Steamed Rice
+black pepper rice bowl
+burger
+carrot_eggs
+cheese burger
+chicken waffle
+chicken_nuggets
+chinese_cabbage
+chinese_sausage
+crispy corn
+curry
+french fries
+fried chicken
+fried_chicken
+fried_dumplings
+fried_eggs
+mango chicken pocket
+mozza burger
+mung_bean_sprouts
+nugget
+perkedel
+rice
+sprite
+tostitos cheese dip sauce
+triangle_hash_brown
+water_spinach

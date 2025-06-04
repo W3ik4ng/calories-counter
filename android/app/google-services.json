@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "937880576448",
+    "firebase_url": "https://calories-project-e7999-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "calories-project-e7999",
+    "storage_bucket": "calories-project-e7999.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937880576448:android:cb2892d0ab2507b5f26825",
+        "android_client_info": {
+          "package_name": "com.example.new_counter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLKpX2sT0cRjVlEkZe-tplJ1BvepA_-wQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
